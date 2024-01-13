@@ -6,4 +6,4 @@ Meu servidor para encomendas : https://discord.gg/santosdev
 
 Qualquer error entrar em contado.
 
-#Venda Proíbida!
+Venda Proíbida!
