@@ -1,0 +1,10 @@
+<meta>
+
+    <oop>true</oop>
+
+    <script src='settings.lua' type='shared'/>
+    <script src='SaveSystem.lua' type='server' />
+    <script src='assets/script/uteis.lua' type='server'/>
+    <script src='assets/script/main.lua' type='server'/>
+
+</meta>
